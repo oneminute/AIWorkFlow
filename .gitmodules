@@ -1,0 +1,3 @@
+[submodule "libs/TikTok-Api"]
+	path = libs/TikTok-Api
+	url = https://github.com/davidteather/TikTok-Api.git
